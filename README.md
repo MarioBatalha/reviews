@@ -5,7 +5,7 @@
 </p>
 
 
-<h1 align="center">Birthday Reminder</h1>
+<h1 align="center">Review</h1>
 
 This is a React app that allows us to see some people reviews.
 
