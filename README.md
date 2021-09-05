@@ -11,7 +11,7 @@ This is a React app that allows us to see some people reviews.
 
 
 <h1 align="center">
-  <img alt="Review" height=70%" width="100%" title="Template" src="./src/img/birthday.png" />
+  <img alt="Review" height=70%" width="100%" title="Template" src="./src/img/reviews.png" />
 </h1>
 
 
